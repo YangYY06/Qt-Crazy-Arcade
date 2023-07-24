@@ -1,4 +1,5 @@
 # Qt-Crazy-Arcade
 Reproducing the gameplay of the classic game Crazy Arcade
 
-download release version [here](https://drive.google.com/drive/folders/1gRgjEX2cmKUJxtFtJNhTqJxHqmzLVSgB?usp=drive_link)
+## Release Version
+Download release version [here](https://drive.google.com/drive/folders/1gRgjEX2cmKUJxtFtJNhTqJxHqmzLVSgB?usp=drive_link)
