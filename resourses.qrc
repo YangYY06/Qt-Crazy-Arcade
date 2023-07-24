@@ -1,0 +1,59 @@
+<RCC>
+    <qresource prefix="/pictures">
+        <file>bombermanPic/mainwindowBACK.png</file>
+        <file>bombermanPic/game-over-screen.png</file>
+        <file>bombermanPic/body1.png</file>
+        <file>bombermanPic/elem1_stand_0_0.png</file>
+        <file>bombermanPic/elem4_stand_0_0.png</file>
+        <file>bombermanPic/elem5_stand_0_0.png</file>
+        <file>bombermanPic/elem6_stand_0_0.png</file>
+        <file>bombermanPic/elem7_stand_0_0.png</file>
+        <file>bombermanPic/bg.png</file>
+        <file>bombermanPic/bomb1_stand_0_0.png</file>
+        <file>bombermanPic/elem2_stand_0_0.png</file>
+        <file>bombermanPic/elem3_stand_0_0.png</file>
+        <file>bombermanPic/flame1_stand_0_0.png</file>
+        <file>bombermanPic/bomb.png</file>
+        <file>bombermanPic/bomb1_stand_0_1.png</file>
+        <file>bombermanPic/bomb1_stand_0_2.png</file>
+        <file>bombermanPic/bomb1_stand_0_3.png</file>
+        <file>bombermanPic/broken.png</file>
+        <file>bombermanPic/cloth10101_cry_0_0.png</file>
+        <file>bombermanPic/cloth10301_cry_0_0.png</file>
+        <file>bombermanPic/doesntBroke.png</file>
+        <file>bombermanPic/door.png</file>
+        <file>bombermanPic/enemy.png</file>
+        <file>bombermanPic/ground.png</file>
+        <file>bombermanPic/groundLevel2.png</file>
+        <file>bombermanPic/groundWithLines.png</file>
+        <file>bombermanPic/player.png</file>
+        <file>bombermanPic/shoe.png</file>
+        <file>bombermanPic/num.png</file>
+        <file>bombermanPic/power.png</file>
+        <file>bombermanPic/f_down.png</file>
+        <file>bombermanPic/f_left.png</file>
+        <file>bombermanPic/f_right.png</file>
+        <file>bombermanPic/f_up.png</file>
+        <file>bombermanPic/m_down.png</file>
+        <file>bombermanPic/m_left.png</file>
+        <file>bombermanPic/m_right.png</file>
+        <file>bombermanPic/m_up.png</file>
+        <file>bombermanPic/Cover1.png</file>
+        <file>bombermanPic/Cover2.png</file>
+    </qresource>
+    <qresource prefix="/">
+        <file>bombermanPic/door.png</file>
+        <file>bombermanPic/f_down.png</file>
+        <file>bombermanPic/f_left.png</file>
+        <file>bombermanPic/f_right.png</file>
+        <file>bombermanPic/f_up.png</file>
+        <file>bombermanPic/m_down.png</file>
+        <file>bombermanPic/m_left.png</file>
+        <file>bombermanPic/m_right.png</file>
+        <file>bombermanPic/m_up.png</file>
+    </qresource>
+    <qresource prefix="/sound_effects">
+        <file>sound_effects/bgm.mp3</file>
+        <file>sound_effects/boom.wav</file>
+    </qresource>
+</RCC>
